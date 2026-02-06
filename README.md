@@ -32,6 +32,14 @@
 
 ---
 
+## 📊 Rúbrica de Evaluación
+
+| Criterio de Evaluación | Puntaje |
+| :--- | :---: |
+| Cambiar el texto `SU_NOMBRE_AQUI` por nombre o frase | 2.5 |
+| Agregar el pantallazo correctamente al README | 2.5 |
+| **Nota Final** | **5.0** |
+
 ## 📤 Entrega
 
 Una vez que hayas terminado, sube tus cambios al repositorio:
